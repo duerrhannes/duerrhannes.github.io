@@ -4,7 +4,7 @@
 
 ## Projects I've been working on recently
 
-### **[Levermann tool - quantitative stock analysis](https://duerrhannes.github.io/levermann)</span>**
+### **[Levermann tool - quantitative stock analysis](https://duerrhannes.github.io/levermann)**
 Notebook for quantitative stock analysis and evaluation, following the approach of Susan Levermann. The tool uses several python libraries to fetch data e.g. from Yahoo! Finance.<br>
 <img src="images/levermann_summary_thumbnail.jpg?raw=true" url="https://duerrhannes.github.io/levermann" width=480/>
 
